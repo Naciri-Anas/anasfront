@@ -1,0 +1,86 @@
+.table-container {
+    border: 1px solid #ccc;
+    background-image: url('image/iamhs.jpg');
+    background-size: cover;
+    background-position: center;
+    padding: 20px;
+  }
+  
+  .table {
+    background-color: #fff;
+  }
+  
+  .btn-add-ville {
+    margin-top: 20px;
+  }
+  .table-container {
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    padding: 20px;
+    margin-bottom: 20px;
+  }
+  
+  .search-bar {
+    display: flex;
+    align-items: center;
+    margin-bottom: 20px;
+    border-radius: 4px;
+    background-color: #f2f2f2;
+    padding: 6px;
+  }
+  
+  .search-bar input {
+    flex-grow: 1;
+    border: none;
+    outline: none;
+    background-color: transparent;
+    padding: 6px;
+  }
+  
+  .search-bar button {
+    border: none;
+    outline: none;
+    background-color: transparent;
+    padding: 6px;
+    cursor: pointer;
+  }
+  
+  .search-bar button:hover {
+    color: #ff6347;
+  }
+  .modern-table {
+    width: 100%;
+    border-collapse: collapse;
+    font-size: 16px;
+  }
+  
+  .modern-table th,
+  .modern-table td {
+    padding: 12px;
+    text-align: left;
+    border-bottom: 1px solid #ddd;
+  }
+  
+  .modern-table th {
+    background-color: #f2f2f2;
+    color: #333;
+  }
+  
+  .modern-table tbody tr:nth-child(even) {
+    background-color: #f9f9f9;
+  }
+  
+  .modern-table tbody tr:hover {
+    background-color: #e9e9e9;
+  }
+  
+  .modern-table .btn-icon {
+    margin-right: 8px;
+  }
+  h3 {
+   background-color: #ccc;
+    text-align: center;
+    margin: 0 auto;
+  }
+    
+  
